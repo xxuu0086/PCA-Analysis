@@ -1,5 +1,7 @@
 # PCA-Analysis
 
+__High Dimensional Data Analysis - Assignment__
+
 ## Data
 
 The [Gini index](https://en.wikipedia.org/wiki/Gini_coefficient) is a measure of income inequality. This assignment uses Gini index data on the set of 52 states of the U.S. The data was sourced from [U.S. State-Level Income Inequality Data - Mark W. Frank](https://www.shsu.edu/eco_mwf/inequality.html).
