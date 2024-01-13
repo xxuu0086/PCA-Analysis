@@ -2,7 +2,7 @@
 title: |
   ETF3500/5500 High Dimensional Data Analysis 
   
-  Group Assignment
+  Assignment
 date:  "`r format(Sys.time(), '%d %B, %Y')`"
 author:
   - Xianghe XU 
@@ -22,6 +22,7 @@ header-includes:
   - \renewcommand{\and}{\\ \\}
   - \AddToHook{env/abstract/before}{\vspace*{2cm}}
   - \makeatletter\AddToHook{cmd/@date/before}{\vspace*{2cm}}\makeatother
+  
 output:
   bookdown::pdf_document2:
     toc: FALSE
