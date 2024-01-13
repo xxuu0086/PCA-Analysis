@@ -2,7 +2,7 @@
 title: |
   ETF3500/5500 High Dimensional Data Analysis 
   
-  Assignment
+  Assignment 2
 date:  "`r format(Sys.time(), '%d %B, %Y')`"
 author:
   - Xianghe XU 
